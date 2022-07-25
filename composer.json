@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.4",
-        "jotjunior/auth-sdk-php": "dev-main",
+        "jotjunior/auth-sdk-php": "^1.0.4",
         "melhorenvio/shipment-sdk-php": "dev-master",
         "phpunit/phpunit": "9.5.x-dev",
         "vlucas/phpdotenv": "5.4.x-dev"

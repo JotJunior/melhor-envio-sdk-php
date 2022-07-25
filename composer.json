@@ -17,7 +17,7 @@
     "require": {
         "php": "^7.4",
         "jotjunior/auth-sdk-php": "^1.0.4",
-        "melhorenvio/shipment-sdk-php": "dev-master",
+        "jotjunior/shipment-sdk-php": "dev-master",
         "phpunit/phpunit": "9.5.x-dev",
         "vlucas/phpdotenv": "5.4.x-dev"
     },
@@ -25,6 +25,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/jotjunior/auth-sdk-php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/jotjunior/shipment-sdk-php"
         }
     ],
     "config": {
